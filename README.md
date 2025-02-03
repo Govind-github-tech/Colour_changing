@@ -10,7 +10,7 @@ A simple project that demonstrates color scheme switching and interactive button
 
 ## Preview
 
-![image.png]
+![Preview](image.png)
 
 ## Technologies Used
 
