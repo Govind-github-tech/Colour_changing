@@ -11,7 +11,7 @@ A simple project that demonstrates color scheme switching and interactive button
 
 ## Preview
 
-![Color Scheme Switcher Preview](Colour_changing/image.png)
+![Color Scheme Switcher Preview](image.png)
 
 ## Technologies Used
 
