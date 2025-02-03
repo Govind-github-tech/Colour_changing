@@ -10,7 +10,7 @@ A simple project that demonstrates color scheme switching and interactive button
 
 ## Preview
 
-![Color Scheme Switcher Preview](path/to/preview-image.png)
+![image.png]
 
 ## Technologies Used
 
@@ -22,4 +22,4 @@ A simple project that demonstrates color scheme switching and interactive button
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/color-scheme-switcher.git
+   git clone https://github.com/Govind-github-tech/Colour_changing.git
