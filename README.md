@@ -10,7 +10,7 @@ A simple project that demonstrates color scheme switching and interactive button
 
 ## Preview
 
-![Preview]("C:\Users\Govind\Pictures\Screenshots\Screenshot 2025-02-04 001339.png")
+![Preview](Colour_changing/image.png)
 
 ## Technologies Used
 
